@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.anna.vetyugova.nomorepartiesco.ru/');
+  const api = new Api('https://api.anna.vetyugova.nomorepartiesco.ru');
 
   export default api;
